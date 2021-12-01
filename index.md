@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kickstart Scheme Theory"
 ---
 
-I'm glad you are here. I plan to talk about ...
+In this page, we kickstart scheme theory.
